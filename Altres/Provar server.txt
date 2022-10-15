@@ -1,0 +1,7 @@
+1. Importar el projecte de github
+2. Anar a la classe bdd i a la variable password posar la que teniu a mysql
+3. Anar a mysql workbench i crear una nova base dades (MySQLConnectiosn a la pantalla pirncipal) que es digui: LSRestaurant
+4. Enganxar al mysql el Scriptbdd2 de la carpeta "Altres" de el google drive
+5. Executeu la base de dades desde el principi fins la linia on sacaben els create table
+6. Ja podeu anar a intellij, i executar el servidor
+
